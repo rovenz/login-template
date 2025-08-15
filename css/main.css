@@ -11637,7 +11637,7 @@ textarea.form-control-lg {
 }
 /* Iman Custom Media Queries */
 body {
-  background-image: url("/image/marmol.jpg");
+  background-image: url("../image/marmol.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
